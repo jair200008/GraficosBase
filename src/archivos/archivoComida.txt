@@ -1,0 +1,5 @@
+Cliente 1
+PAPAS ---> 4500
+PAQUETES ---> 2500
+TOTAL: 7000
+
